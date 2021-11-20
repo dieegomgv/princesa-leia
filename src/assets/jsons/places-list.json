@@ -1,0 +1,31 @@
+{
+  "places": [
+    {
+      "title": "Jardín Botánico" ,
+      "image_url" : "https://programadestinosmexico.com/que-ver/destinos-mexico/culiacan/Jard%C3%ADn%20Bot%C3%A1nico%20.jpg",
+      "description": "Puedes ir a caminar, buscar reconocer las plantas, intentar reconocer las aves que ahí viven, acostarte en las camas de piedra a leer, es una experiencia relajante"
+    },
+    {
+      "title": "Materia" ,
+      "image_url" : "https://programadestinosmexico.com/que-ver/destinos-mexico/culiacan/Centro%20de%20Ciencias%20de%20Sinaloa%20.jpg",
+      "description": "Puedes ir a ver las exhibiciones nuevas que hay en el museo y luego ir por un café al WolfShack n.n"
+    },
+    {
+      "title": "Museo Regional" ,
+      "image_url" : "https://programadestinosmexico.com/que-ver/destinos-mexico/culiacan/Museo%20Regional%20.jpg",
+      "description": "Es el museo que está en el Parque Constitución. Puedes ir a conocer un poco de cultura/historia del estado, está padre"
+    },
+    {
+      "title": "Museo del Chino Billetero" ,
+      "image_url" : "https://programadestinosmexico.com/que-ver/destinos-mexico/culiacan/Casa%20Museo%20del%20Chino%20Billetero.jpg",
+      "description": "Éste museo es el que es todo verde, que pasamos cuando fuimos al WolfShack de la Bravo, está padre porque a parte de los animales disecados tiene muchas piezas arqueológicas"
+    },
+
+    {
+      "title": "Parque Las Riberas" ,
+      "image_url" : "https://programadestinosmexico.com/parques-recreativos/sinaloa/Parque%20Las%20Riberas%20.jpg",
+      "description": "Puede ir y andar en bicicleta, ir a leer, ir a tomarte algo o tener un picnic, está padre para despejarte un poco la vdd (Si haces un picnic me invitas)"
+    }
+
+  ]
+}

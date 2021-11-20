@@ -1,0 +1,21 @@
+<nav class="navbar">
+  <h2 routerLink="/home">
+    <span class="arrow arrow-left"></span>
+  </h2>
+</nav>
+<div class="options-container">
+  <div class="inner-wrapper">
+    <div >
+      <a class="play-btn" (click)="playAudio()"></a>
+    </div>
+
+    <div class="timer">
+      <button [class.active] = "selection == 5" (click)="selection = 5">5</button>
+      <button [class.active] = "selection == 10"  (click)="selection = 10">
+        10
+      </button>
+      <button [class.active] = "selection == 15"  (click)="selection = 15">15</button>
+    </div>
+  </div>
+
+</div>

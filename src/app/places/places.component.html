@@ -1,0 +1,23 @@
+<nav class="navbar">
+  <h2 routerLink="/home">
+    <span class="arrow arrow-left"></span>
+  </h2>
+</nav>
+<div class="options-container">
+  <div class="items">
+    <div class="items-head">
+      <p>Recomendaciones semanales</p>
+      <hr>
+    </div>
+
+    <div class="items-body">
+      <div *ngFor="let place of places.places; let i = index" class="items-body-content" (click)="expand = i">
+
+        <span>{{place.title}}</span>
+        <div   [ngClass]=" expand ? 'button__arrow button__arrow--down':'button__arrow button__arrow--right'"></div>
+        <span *ngIf="expand == i">{{place.description}} <br> <br><a [href]="place.image_url" target="_blank">Ver imagen</a></span>
+      </div>
+
+    </div>
+  </div>
+</div>

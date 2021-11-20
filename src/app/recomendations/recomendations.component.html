@@ -1,0 +1,23 @@
+<nav class="navbar">
+  <h2 routerLink="/home">
+    <span class="arrow arrow-left"></span>
+  </h2>
+</nav>
+<div class="options-container">
+  <div class="items">
+    <div class="items-head">
+      <p>Recomendaciones semanales</p>
+      <hr>
+    </div>
+
+    <div class="items-body">
+      <div *ngFor="let song of songs.songs; let i = index" class="items-body-content" (click)="expand = i">
+
+        <span>{{song.title}}</span>
+        <div   [ngClass]=" expand ? 'button__arrow button__arrow--down':'button__arrow button__arrow--right'"></div>
+        <span *ngIf="expand == i">{{song.description}} <br> <br><a [href]="song.song_url" target="_blank">Escuchar</a></span>
+      </div>
+
+    </div>
+  </div>
+</div>

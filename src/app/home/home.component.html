@@ -1,0 +1,37 @@
+<nav class="navbar">
+  <h2 (click)="openWelcomeModal()">INFO</h2>
+</nav>
+<div class="options-container">
+  <div class="items">
+    <div class="items-head">
+      <p>Selecciona una opción</p>
+      <hr>
+    </div>
+
+    <div class="items-body">
+      <div class="items-body-content" routerLink="/meditation">
+        <span>Meditación</span>
+        <div class="button__arrow button__arrow--right"></div>
+      </div>
+      <div class="items-body-content" routerLink="/recomendations">
+        <span>Música</span>
+        <div class="button__arrow button__arrow--right"></div>
+      </div>
+
+      <div class="items-body-content" (click)="openWarningModal()">
+        <span>Obtener una foto de un gatito</span>
+        <div class="button__arrow button__arrow--right"></div>
+      </div>
+
+      <div class="items-body-content" routerLink = "/places">
+        <span>Lugares</span>
+        <div class="button__arrow button__arrow--right"></div>
+      </div>
+
+      <div class="items-body-content" (click)="openWarningModal()">
+        <span>Más</span>
+        <div class="button__arrow button__arrow--right"></div>
+      </div>
+    </div>
+  </div>
+</div>
