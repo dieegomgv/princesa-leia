@@ -12,4 +12,5 @@ export class RecomendationsComponent implements OnInit {
   constructor() { }
   ngOnInit(): void {
   }
+
 }

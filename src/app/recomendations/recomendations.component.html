@@ -8,12 +8,22 @@
     <div class="items-head">
       <p>Recomendaciones semanales</p>
       <hr>
+
     </div>
-
+<div>
+</div>
     <div class="items-body">
-      <div *ngFor="let song of songs.songs; let i = index" class="items-body-content" (click)="expand = i">
+      <div *ngFor="let song of songs.songs; let i = index" class="items-body-content" >
+        <div class="music-container">
+          <img [src]="song.image_url" width="50" height="50">
+          <div class="artist-song-container">
+            <span>{{song.title}}</span>
+            <span>{{song.artist}}</span>
+          </div>
 
-        <span>{{song.title}}</span>
+          <span (click)="expand = i">Descripción</span>
+        </div>
+
         <div   [ngClass]=" expand ? 'button__arrow button__arrow--down':'button__arrow button__arrow--right'"></div>
         <span *ngIf="expand == i">{{song.description}} <br> <br><a [href]="song.song_url" target="_blank">Escuchar</a></span>
       </div>

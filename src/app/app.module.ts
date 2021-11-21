@@ -1,6 +1,5 @@
-import {CUSTOM_ELEMENTS_SCHEMA, NgModule} from '@angular/core';
+import { NgModule} from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
@@ -20,6 +19,9 @@ import {MatButtonModule} from "@angular/material/button";
 import { AudioPlayerComponent } from './audio-player/audio-player.component';
 import { RamdomPhotoComponent } from './ramdom-photo/ramdom-photo.component';
 import {MatSnackBarModule} from "@angular/material/snack-bar";
+import {MatFormFieldModule} from "@angular/material/form-field";
+import {MatInputModule} from "@angular/material/input";
+import {HttpModule} from "@angular/http";
 
 @NgModule({
   declarations: [
@@ -42,9 +44,12 @@ import {MatSnackBarModule} from "@angular/material/snack-bar";
     MatDialogModule,
     MatListModule,
     FontAwesomeModule,
-    MatIconModule,    //*FAB Button
+    MatIconModule,
     MatSnackBarModule,
-    MatButtonModule,  //*FAB Button
+    MatButtonModule,
+    MatFormFieldModule,
+    MatInputModule,
+    HttpModule
   ],
   providers: [],
   bootstrap: [AppComponent]

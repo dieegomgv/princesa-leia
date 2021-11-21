@@ -138,3 +138,15 @@ $dark-pri: rgba(255, 0, 128, 0.8);
 .arrow-left {
   transform: rotate(-135deg);
 }
+
+.music-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.artist-song-container{
+  display: flex;
+  flex-direction: column;
+  color:rgba(255, 0, 128, 0.8);
+}

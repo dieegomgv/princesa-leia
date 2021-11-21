@@ -4,18 +4,19 @@
   </h2>
 </nav>
 <div class="options-container">
+  <span class="welcome-text"> Escoge un tiempo de meditación y dale play</span>
+
   <div class="inner-wrapper">
+    <div class="timer">
+      <button [class.active] = "selection == 5" (click)="selection = 5">5m</button>
+      <button [class.active] = "selection == 10"  (click)="selection = 10">10m</button>
+      <button [class.active] = "selection == 15"  (click)="selection = 15">15m</button>
+    </div>
     <div >
       <a class="play-btn" (click)="playAudio()"></a>
     </div>
 
-    <div class="timer">
-      <button [class.active] = "selection == 5" (click)="selection = 5">5</button>
-      <button [class.active] = "selection == 10"  (click)="selection = 10">
-        10
-      </button>
-      <button [class.active] = "selection == 15"  (click)="selection = 15">15</button>
-    </div>
+
   </div>
 
 </div>

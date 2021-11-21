@@ -2,27 +2,37 @@
   "songs": [
     {
       "title": "Light of my life" ,
+      "artist": "Cvmel",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b27391b7f08f055d444911d58515",
       "song_url" : "https://open.spotify.com/track/5xCD0gX08naZNIAyStsgzX?si=1dfa4f3602074332",
       "description": "Ésta canción no te la había compartido pero explorando mis viejas playlist la encontré y me recuerdó mucho a ti porque siempre has sido la lucecita en mi mundo obscuro c:"
     },
     {
       "title": "Keep Holding On" ,
+      "artist": "Avril Lavigne",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273476cdf5837ae39eee951cc15",
       "song_url" : "https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI?si=0d29e8e76dd74ee7",
       "description": "Ésta te la quise dedicar porque la letra está 10/10 y además te gusta Avril hahaha"
     },
     {
       "title": "The Prom" ,
+      "artist": "Folbae",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273ef371f6c2f02a40005a85508",
       "song_url" : "https://open.spotify.com/track/057YYjMitrsikmxrH0Nxgw?si=7eda24fb056d4192",
       "description": "Ésta pq está bien alegre la dvd y pq eres un Sol cegador"
     },
     {
       "title": "Head First" ,
+      "artist": "Christian French",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2733d80cc0afef5bf4cda483349",
       "song_url" : "https://open.spotify.com/track/1nDOeWBfRKA5YNQ8bKWzMM?si=d18032418a174f12",
       "description": "Ésta canción se me hizo cool hahaha XD"
     },
 
     {
       "title": "Fix you" ,
+      "artist": "Coldplay",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651",
       "song_url" : "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q?si=02ad822a75ae4c03",
       "description": "Ésta pq está perrísima y pq let me fix you hahahahaha"
     }

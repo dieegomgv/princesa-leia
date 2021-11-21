@@ -1,0 +1,490 @@
+{
+  "href": "https://api.spotify.com/v1/playlists/3zs94FzJ7yB1TkdJRCMA1A/tracks?offset=0&limit=100&market=ES&locale=es-419,es;q=0.9",
+  "items": [
+    {
+      "added_at": "2021-11-20T21:51:49Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/44hpy4y2aslqssxmkuah1bs0f"
+        },
+        "href": "https://api.spotify.com/v1/users/44hpy4y2aslqssxmkuah1bs0f",
+        "id": "44hpy4y2aslqssxmkuah1bs0f",
+        "type": "user",
+        "uri": "spotify:user:44hpy4y2aslqssxmkuah1bs0f"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0tLBV7yLdjNeJLszrqXKDr"
+              },
+              "href": "https://api.spotify.com/v1/artists/0tLBV7yLdjNeJLszrqXKDr",
+              "id": "0tLBV7yLdjNeJLszrqXKDr",
+              "name": "Cvmel",
+              "type": "artist",
+              "uri": "spotify:artist:0tLBV7yLdjNeJLszrqXKDr"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0W35KQhLw6CZNYWbJ49gqP"
+          },
+          "href": "https://api.spotify.com/v1/albums/0W35KQhLw6CZNYWbJ49gqP",
+          "id": "0W35KQhLw6CZNYWbJ49gqP",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27391b7f08f055d444911d58515",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0291b7f08f055d444911d58515",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485191b7f08f055d444911d58515",
+              "width": 64
+            }
+          ],
+          "name": "Light of My Life (Loml)",
+          "release_date": "2018-10-27",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0W35KQhLw6CZNYWbJ49gqP"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tLBV7yLdjNeJLszrqXKDr"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tLBV7yLdjNeJLszrqXKDr",
+            "id": "0tLBV7yLdjNeJLszrqXKDr",
+            "name": "Cvmel",
+            "type": "artist",
+            "uri": "spotify:artist:0tLBV7yLdjNeJLszrqXKDr"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214256,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZDA52008903"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5xCD0gX08naZNIAyStsgzX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5xCD0gX08naZNIAyStsgzX",
+        "id": "5xCD0gX08naZNIAyStsgzX",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Light of My Life (Loml)",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/a4e70933713c12a02ee421d1ee910012a1608210?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5xCD0gX08naZNIAyStsgzX"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-11-20T21:52:25Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/44hpy4y2aslqssxmkuah1bs0f"
+        },
+        "href": "https://api.spotify.com/v1/users/44hpy4y2aslqssxmkuah1bs0f",
+        "id": "44hpy4y2aslqssxmkuah1bs0f",
+        "type": "user",
+        "uri": "spotify:user:44hpy4y2aslqssxmkuah1bs0f"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+              },
+              "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+              "id": "4gzpq5DPGxSnKTe4SA8HAU",
+              "name": "Coldplay",
+              "type": "artist",
+              "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+          },
+          "href": "https://api.spotify.com/v1/albums/4E7bV0pzG0LciBSWTszra6",
+          "id": "4E7bV0pzG0LciBSWTszra6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514e0362c225863f6ae2432651",
+              "width": 64
+            }
+          ],
+          "name": "X&Y",
+          "release_date": "2005-06-07",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:4E7bV0pzG0LciBSWTszra6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+            },
+            "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+            "id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "name": "Coldplay",
+            "type": "artist",
+            "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 295533,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBAYE0500605"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LVHVU3tWfcxj5aiPFEW4Q",
+        "id": "7LVHVU3tWfcxj5aiPFEW4Q",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Fix You",
+        "popularity": 82,
+        "preview_url": "https://p.scdn.co/mp3-preview/46470abd1664c6f34efc0f07e0c2f1129616f28f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7LVHVU3tWfcxj5aiPFEW4Q"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-11-20T21:53:09Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/44hpy4y2aslqssxmkuah1bs0f"
+        },
+        "href": "https://api.spotify.com/v1/users/44hpy4y2aslqssxmkuah1bs0f",
+        "id": "44hpy4y2aslqssxmkuah1bs0f",
+        "type": "user",
+        "uri": "spotify:user:44hpy4y2aslqssxmkuah1bs0f"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+              },
+              "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+              "id": "0p4nmQO2msCgU4IF37Wi3j",
+              "name": "Avril Lavigne",
+              "type": "artist",
+              "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+          },
+          "href": "https://api.spotify.com/v1/albums/6lqE05fiHWJVYYdMVJNj38",
+          "id": "6lqE05fiHWJVYYdMVJNj38",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273476cdf5837ae39eee951cc15",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02476cdf5837ae39eee951cc15",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851476cdf5837ae39eee951cc15",
+              "width": 64
+            }
+          ],
+          "name": "The Best Damn Thing (Expanded Edition)",
+          "release_date": "2007-04-17",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:6lqE05fiHWJVYYdMVJNj38"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+            },
+            "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+            "id": "0p4nmQO2msCgU4IF37Wi3j",
+            "name": "Avril Lavigne",
+            "type": "artist",
+            "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 239906,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRC10602180"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4UPcXTh26ilb7owtuyHqNI",
+        "id": "4UPcXTh26ilb7owtuyHqNI",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Keep Holding On",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/8f33a2edaf5240ba3891c3a3c95d05eac8a15eac?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:4UPcXTh26ilb7owtuyHqNI"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-11-20T21:57:21Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/44hpy4y2aslqssxmkuah1bs0f"
+        },
+        "href": "https://api.spotify.com/v1/users/44hpy4y2aslqssxmkuah1bs0f",
+        "id": "44hpy4y2aslqssxmkuah1bs0f",
+        "type": "user",
+        "uri": "spotify:user:44hpy4y2aslqssxmkuah1bs0f"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5rBgpN4byt3bbSK3nyvBHQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5rBgpN4byt3bbSK3nyvBHQ",
+              "id": "5rBgpN4byt3bbSK3nyvBHQ",
+              "name": "Folbae",
+              "type": "artist",
+              "uri": "spotify:artist:5rBgpN4byt3bbSK3nyvBHQ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2jeATcSLQADDZTKNg5GioQ"
+          },
+          "href": "https://api.spotify.com/v1/albums/2jeATcSLQADDZTKNg5GioQ",
+          "id": "2jeATcSLQADDZTKNg5GioQ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ef371f6c2f02a40005a85508",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ef371f6c2f02a40005a85508",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ef371f6c2f02a40005a85508",
+              "width": 64
+            }
+          ],
+          "name": "The Prom",
+          "release_date": "2020-08-20",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2jeATcSLQADDZTKNg5GioQ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5rBgpN4byt3bbSK3nyvBHQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5rBgpN4byt3bbSK3nyvBHQ",
+            "id": "5rBgpN4byt3bbSK3nyvBHQ",
+            "name": "Folbae",
+            "type": "artist",
+            "uri": "spotify:artist:5rBgpN4byt3bbSK3nyvBHQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YYXbEHq4nerHd4MVTnJ3B"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YYXbEHq4nerHd4MVTnJ3B",
+            "id": "4YYXbEHq4nerHd4MVTnJ3B",
+            "name": "Ana Belén Díaz Rueda",
+            "type": "artist",
+            "uri": "spotify:artist:4YYXbEHq4nerHd4MVTnJ3B"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 259247,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QZHZ62048600"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/057YYjMitrsikmxrH0Nxgw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/057YYjMitrsikmxrH0Nxgw",
+        "id": "057YYjMitrsikmxrH0Nxgw",
+        "is_local": false,
+        "is_playable": true,
+        "name": "The Prom",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/aaffed39f900345e5a15d3becc9dd24c262328fb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:057YYjMitrsikmxrH0Nxgw"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2021-11-20T21:58:00Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/44hpy4y2aslqssxmkuah1bs0f"
+        },
+        "href": "https://api.spotify.com/v1/users/44hpy4y2aslqssxmkuah1bs0f",
+        "id": "44hpy4y2aslqssxmkuah1bs0f",
+        "type": "user",
+        "uri": "spotify:user:44hpy4y2aslqssxmkuah1bs0f"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+              },
+              "href": "https://api.spotify.com/v1/artists/7naAJDAh7AZnf18YYfQruM",
+              "id": "7naAJDAh7AZnf18YYfQruM",
+              "name": "Christian French",
+              "type": "artist",
+              "uri": "spotify:artist:7naAJDAh7AZnf18YYfQruM"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6WytX96LU58H2AV4IVQBvj"
+          },
+          "href": "https://api.spotify.com/v1/albums/6WytX96LU58H2AV4IVQBvj",
+          "id": "6WytX96LU58H2AV4IVQBvj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733d80cc0afef5bf4cda483349",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e023d80cc0afef5bf4cda483349",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048513d80cc0afef5bf4cda483349",
+              "width": 64
+            }
+          ],
+          "name": "head first",
+          "release_date": "2019-05-17",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6WytX96LU58H2AV4IVQBvj"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+            },
+            "href": "https://api.spotify.com/v1/artists/7naAJDAh7AZnf18YYfQruM",
+            "id": "7naAJDAh7AZnf18YYfQruM",
+            "name": "Christian French",
+            "type": "artist",
+            "uri": "spotify:artist:7naAJDAh7AZnf18YYfQruM"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 154960,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91901186"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1nDOeWBfRKA5YNQ8bKWzMM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1nDOeWBfRKA5YNQ8bKWzMM",
+        "id": "1nDOeWBfRKA5YNQ8bKWzMM",
+        "is_local": false,
+        "is_playable": true,
+        "name": "head first",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/9cc790b003a85842912328b6e9d9c406f636ad08?cid=774b29d4f13844c495f206cafdad9c86",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1nDOeWBfRKA5YNQ8bKWzMM"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    }
+  ],
+}

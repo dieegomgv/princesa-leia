@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import {MatSnackBar} from "@angular/material/snack-bar";
+import {Http} from "@angular/http";
 
 @Component({
   selector: 'app-root',
@@ -9,8 +10,9 @@ import {MatSnackBar} from "@angular/material/snack-bar";
 
 export class AppComponent {
 
-  constructor(private snackBar: MatSnackBar
-  ) {
+  cats = []
+  constructor(private snackBar: MatSnackBar, private http: Http) {
+
   }
   title = 'princesa-leia';
 
@@ -21,5 +23,15 @@ export class AppComponent {
       verticalPosition: 'bottom',
       horizontalPosition: 'right',
     });
+  }
+
+  private setCatsImages(){
+    this.http.get('https://api.thecatapi.com/v1/images/search').subscribe(res => {
+      // @ts-ignore
+      this.cats.push(JSON.parse(res._body)[0].url)
+    })
+  }
+  public getCatsImages (){
+    return this.cats
   }
 }

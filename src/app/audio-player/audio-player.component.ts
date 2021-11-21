@@ -31,7 +31,6 @@ export class AudioPlayerComponent implements OnInit {
 
   playAudio() {
 
-    console.log(this.selection)
     this.appComponent.snackbar('Debes de seleccionar la duración')
     /*   if (this.audioPlayer.paused) {
          this.audioPlayer.play();
